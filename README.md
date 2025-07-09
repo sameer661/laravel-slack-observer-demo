@@ -1,6 +1,6 @@
 # 🚀 Laravel Slack Observer Demo
 
-This is a minimal yet professional Laravel 10+ project that demonstrates how to send **Slack notifications** via **queued jobs** whenever a new user is registered.
+This is a minimal yet professional Laravel 12 project that demonstrates how to send **Slack notifications** via **queued jobs** whenever a new user is registered.
 
 It is designed for:
 - Clean code architecture
@@ -20,6 +20,12 @@ It is designed for:
 ✅ Laravel Queue-ready  
 ✅ Clean code and error logging with `Http::fake`, `Log::warning`, `try/catch`  
 ✅ Portable SQLite DB (no need to set up MySQL)
+
+---
+
+## 📸 Screenshot
+
+![Slack Notification](https://tinyurl.com/ylmae76x)
 
 ---
 
@@ -144,3 +150,7 @@ Remote from 🇮🇳 | Seeking full-time remote roles
 ## ⭐️ Star This Repo
 
 If you found this useful, consider giving it a ⭐ on GitHub — it helps boost visibility for more developers.
+
+## 📝 License
+
+This project is open-sourced under the [MIT license](LICENSE).
