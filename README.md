@@ -25,7 +25,7 @@ It is designed for:
 
 ## 📸 Screenshot
 
-![Slack Notification](https://tinyurl.com/ylmae76x) : https://tinyurl.com/ylmae76x
+https://tinyurl.com/ylmae76x
 
 ---
 
